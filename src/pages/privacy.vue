@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'SharedLens'
+const appName = 'CoView'
 </script>
 
 <template>
